@@ -14,6 +14,6 @@
     "dependencies": {
         "@rsksmart/bridges-core-sdk": "^0.4.2",
         "@rsksmart/flyover-sdk": "^1.6.2",
-        "@rsksmart/tokenbridge-sdk": "^0.4.12"
+        "@rsksmart/tokenbridge-sdk": "^0.4.13"
     }
 }
